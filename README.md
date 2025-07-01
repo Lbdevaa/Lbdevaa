@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 💻
+
+![Codewars](https://github.r2v.ch/codewars?user=Lbdev_aa&theme=purple_dark)
 
 <!--
 **Lbdevaa/Lbdevaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
