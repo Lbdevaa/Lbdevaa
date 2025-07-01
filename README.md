@@ -1,6 +1,6 @@
 ## Hi there 💻
 
-![Codewars](https://github.r2v.ch/codewars?user=Lbdev_aa&theme=purple_dark)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Lbdev_aa&theme=dark)](https://www.codewars.com/users/Lbdev_aa)
 
 <!--
 **Lbdevaa/Lbdevaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
